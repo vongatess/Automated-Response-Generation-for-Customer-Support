@@ -1,0 +1,9 @@
+# Automated Response Generation for Customer Support
+
+## Introduction
+This project involves building a model to generate automated responses to customer queries using the dataset from [Hugging Face](https://huggingface.co/datasets/Kaludi/Customer-Support-Responses).
+
+## Step 1: Install Necessary Libraries
+
+```python
+!pip install transformers datasets torch
